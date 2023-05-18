@@ -1,0 +1,18 @@
+.btn-primary {
+  background-color: rgb(15, 15, 15);
+  border-color: rgb(185, 182, 182);
+  border-style: solid;
+  border-width: 1px;
+  color: rgba(241, 239, 239, 0.76);
+  padding: 15px 25px;
+  opacity: 0.7;
+  transition: background 0.3s;
+  justify-items: center;
+  align-content: center;
+display: grid;
+  }
+
+  .btn-primary:hover{
+    border-color: rgb(52, 52, 52);
+    color: rgb(59, 59, 59);
+  }

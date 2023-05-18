@@ -1,0 +1,41 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@600&display=swap');
+
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Utilities */
+@import url('components/banner.css');
+@import url('components/btn.css');
+@import url('components/cards.css');
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: rgb(34, 33, 33);
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+.banner h1 {font-family: 'Bebas Neue', sans-serif;
+  color: rgb(164, 5, 5);
+  text-shadow: 6px 6px 15px rgb(244, 241, 241);
+  font-size: 55px;
+  text-align: center;
+}
+
+.banner p {font-family: 'Bebas Neue', sans-serif;
+color: white;
+text-align: center;
+font-size: 25px;}

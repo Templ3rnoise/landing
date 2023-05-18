@@ -1,0 +1,18 @@
+.footer {background-color: black;
+height: 200px;}
+
+
+.logo_links{color: whitesmoke;
+  text-decoration: none;
+  }
+  a:hover{color: red;}
+  .intro_center{width: 400px;
+    margin: auto;
+  height: 100;
+  background-color: #4B4C52;
+  text-align: center;
+  padding: 2%;}
+  .description_center{text-align: center;
+  margin: auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  }

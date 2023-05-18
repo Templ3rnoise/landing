@@ -1,0 +1,55 @@
+.card-product {background-color: rgb(245, 244, 244);
+  width: 400px;
+  margin: 100px auto;
+  box-shadow: 0 0 15px rgba(87, 87, 87, 0.2);
+}
+
+.card-product h2{color: black;
+}
+
+.card-product img{
+  width: 100%;
+}
+
+
+.card-product-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 6px;
+}
+
+.card-product-info h2, .card-product-info p {
+  margin: 0;
+}
+
+
+.card-technique {background-color: rgb(245, 244, 244);
+  width: 400px;
+  margin: 100px auto;
+  box-shadow: 0 0 15px rgba(87, 87, 87, 0.2);
+}
+
+.card-technique h2{color: black;
+}
+
+
+.card-technique img{
+  width: 100%;
+}
+
+.card-technique-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 6px;
+}
+
+.card-technique-info h2, .card-technique-info p {
+  margin: 0;
+}
+
+.container-cards {
+  display: flex;
+  justify-content: space-evenly;
+}

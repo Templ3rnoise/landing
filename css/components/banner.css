@@ -1,0 +1,14 @@
+.banner {
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  height: 100px;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+display: block;
+}
